@@ -1,6 +1,20 @@
-Cirrhosis is a late stage of scarring (fibrosis) of the liver caused by many forms of liver diseases and conditions, such as hepatitis and chronic alcoholism. The following data contains the information collected from the Mayo Clinic trial in primary biliary cirrhosis (PBC) of the liver conducted between 1974 and 1984. A description of the clinical background for the trial and the covariates recorded here is in Chapter 0, especially Section 0.2 of Fleming and Harrington, Counting
-Processes and Survival Analysis, Wiley, 1991. A more extended discussion can be found in Dickson, et al., Hepatology 10:1-7 (1989) and in Markus, et al., N Eng J of Med 320:1709-13 (1989).
+1. Sơ lược
++Xơ gan là giai đoạn cuối của quá trình sẹo hóa (xơ hóa) gan do nhiều dạng bệnh lý và tình trạng gan gây ra, chẳng hạn như viêm gan và nghiện rượu mãn tính. Dữ liệu sau đây chứa thông tin thu thập được từ thử nghiệm của Mayo Clinic về xơ gan mật nguyên phát (PBC) của gan.
 
-A total of 424 PBC patients, referred to Mayo Clinic during that ten-year interval, met eligibility criteria for the randomized placebo-controlled trial of the drug D-penicillamine. The first 312 cases in the dataset participated in the randomized trial and contain largely complete data. The additional 112 cases did not participate in the clinical trial but consented to have basic measurements recorded and to be followed for survival. Six of those cases were lost to follow-up shortly after diagnosis, so the data here are on an additional 106 cases as well as the 312 randomized participants.
+Tổng cộng có 424 bệnh nhân PBC được giới thiệu đến Mayo Clinic trong khoảng thời gian mười năm đó, đáp ứng các tiêu chí đủ điều kiện tham gia thử nghiệm ngẫu nhiên có đối chứng giả dược về thuốc D-penicillamine. 312 trường hợp đầu tiên trong tập dữ liệu đã tham gia thử nghiệm ngẫu nhiên và chứa dữ liệu phần lớn đầy đủ. 112 trường hợp bổ sung không tham gia thử nghiệm lâm sàng nhưng đồng ý ghi lại các phép đo cơ bản và được theo dõi để sống sót. Sáu trong số những trường hợp đó đã mất theo dõi ngay sau khi chẩn đoán, vì vậy dữ liệu ở đây là về 106 trường hợp bổ sung cũng như 312 người tham gia ngẫu nhiên.
+
+3. Business Understanding (Excel)
++ Các thuật ngữ liên quan, có liên quan đến nghiệp vụ, dữ liệu được khảo sát
++ Các quy trình liên quan, có liên quan đến nghiệp vụ, dữ liệu được khảo sát
+
+3. Data Understanding (Excel)
++ Khảo sát các bảng dữ liệu
++ Đánh giá chất lượng dữ liệu
+
+4. Data Processing/ Dealing with data (Python)
++ Phân tích đơn biến
++ Phân tích đa biến
+
+5. Dashboard/ Presentation (Tableau)
 
 ![image](https://github.com/user-attachments/assets/afb3b328-91fa-4761-9484-87e26441a294)
